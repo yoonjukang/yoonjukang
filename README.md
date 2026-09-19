@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @yoonjukang
-- 👀 I’m interested in food and bread. 
-- 🌱 I’m currently learning Cursor
-- 💞️ I’m looking to collaborate on ways to vibe code better, and improve design and eng collaboration
+- 👋 Hi, I’m @yoonjukang  
 - 😄 Pronouns: she/her/hers
 
 <!---
